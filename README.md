@@ -1,2 +1,2 @@
 # Wang_NG_Chat_App_Back_End
-This is the back end github repo for Chat App which build with Node, Express, and the Vue CLI, Scoket.io
+This is the back end github repo for Chat Room which build with Node, Express, and the Vue CLI, Scoket.io
