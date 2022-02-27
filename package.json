@@ -1,0 +1,25 @@
+{
+    "name": "wang_ng_chat_app_back_end",
+    "version": "1.0.0",
+    "description": "This is the back end github repo for Chat App which build with Node, Express, and the Vue CLI, Scoket.io",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shaunwng/Wang_NG_Chat_App_Back_End.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/shaunwng/Wang_NG_Chat_App_Back_End/issues"
+    },
+    "homepage": "https://github.com/shaunwng/Wang_NG_Chat_App_Back_End#readme",
+    "dependencies": {
+        "express": "^4.17.3",
+        "socket.io": "^4.4.1"
+    }
+}
